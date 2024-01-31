@@ -4,7 +4,7 @@
 
 - <b>Project 1 -  Analysis of Social Networks </b>
   - [Code](https://github.com/LaurenFowler2/ERGMs_Project/tree/main)
-  - [Visualization]
+  - [Visualization](https://github.com/LaurenFowler2/ERGM_Vis)
   - [Impact]
   - [Reflection]
 - <b>Project 2 - RACs Survey </b>
