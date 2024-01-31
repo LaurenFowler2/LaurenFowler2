@@ -20,10 +20,10 @@
 
 <h2>More Information</h2>
 
-- [Bio](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Resume](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [CV](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Statement of Purpose](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Bio]
+- [Resume]
+- [CV]
+- [Statement of Purpose]
 
 <h2> 🤳 Connect with me:</h2>
 
