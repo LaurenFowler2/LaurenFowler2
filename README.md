@@ -13,7 +13,7 @@
   - [Impact]
   - [Reflection]
 - <b>Project 3 - COVID-19 Data Analysis</b>
-  - [Code](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Code]
   - [Visualization]
   - [Impact]
   - [Reflection]
