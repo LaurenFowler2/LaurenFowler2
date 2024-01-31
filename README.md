@@ -3,7 +3,7 @@
 <h2>Data Science Portfolio:</h2>
 
 - <b>Project 1</b>
-  - [Code](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Code]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/LaurenFowler2/ERGMs_Project/tree/main))
   - [Visualization]
   - [DS]
   - [Something Else]
