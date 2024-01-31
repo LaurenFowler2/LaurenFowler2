@@ -8,7 +8,7 @@
   - [Impact]
   - [Reflection]
 - <b>Project 2 - RACs Survey </b>
-  - [Code](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Code]
   - [Visualization]
   - [Impact]
   - [Reflection]
